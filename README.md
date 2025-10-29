@@ -14,6 +14,16 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/t2aking/contributions.svg" />
   </a>
 </p>
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t2aking&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=t2aking&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=t2aking&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=t2aking&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=t2aking&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=t2aking&theme=gruvbox)
 <!--
 **t2aking/t2aking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
